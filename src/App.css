@@ -1,0 +1,18 @@
+.hero {
+  position: relative;
+  padding: 96px 30px 138px;
+  background: url(https://bitcoin.org/img/hero/hero-bg.svg?1528322191) bottom
+    no-repeat;
+  background-size: cover;
+  z-index: 10;
+}
+
+.wrapper {
+  min-height: 100%;
+  margin-bottom: -50px;
+}
+
+.footer,
+.push {
+  height: 50px;
+}
